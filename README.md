@@ -60,7 +60,7 @@ Xeno CRM is a simplified Customer Relationship Management (CRM) and Campaign Man
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/xeno-crm.git
+   git clone https://github.com/VatsalS31/xeno-crm.git
    cd xeno-crm
 Install dependencies:
 
@@ -92,7 +92,7 @@ Clone the repository (if not already cloned):
 
 bash
 Copy code
-git clone https://github.com/yourusername/xeno-crm.git
+git clone https://github.com/VatsalS31/xeno-crm.git
 cd xeno-crm-frontend
 Install dependencies:
 
